@@ -7,7 +7,7 @@
 2. CSS
 3. JavaScript
 
-[Link to the site.] (https://banana-translation-webapp.netlify.app/)
+[Link to the site.](https://banana-translation-webapp.netlify.app/)
 
 ### Screenshot
 ![screenshot](image/Screenshot.png)
